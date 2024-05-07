@@ -9,7 +9,7 @@ layout: base
 {% for post in site.posts %}
 <article>
   <h2>
-    <a href="{{ post.url }}">
+    <a href="{{site.url}}/{{ post.url }}">
       <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date| date: "%d/%m/%Y" }}</time> - {{ post.title }}
     </a>
   </h2>
@@ -20,5 +20,5 @@ layout: base
 
 </div>
 
-<a href="#top"><img src="img/misc/gif_torch.gif" alt="" class="centered"/></a>
+<a href="#top"><img src="{{site.url}}/img/misc/gif_torch.gif" alt="" class="centered"/></a>
 <p style="text-align: center">Clique na tocha para voltar ao topo da página</p>
