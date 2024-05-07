@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="O mundo do ROM Hacking e tradução de jogos com Taihen's Hextinkers! Confira projetos, tutoriais e ferramentas de tradução de ROMs.">
+    <meta name="google-site-verification" content="T8jcyQMr6Fm5S1vlEoMAY30kz5S071VPh2Krrxwol-o" />	
+    <title>Transformar Mario em Wario mudando as cores - Taihen's Hextinkers - Emulação, ROM Hacking e Tradução de Jogos</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">	
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZNMFHKWLG3"></script>
+    <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+    
+          gtag('config', 'G-ZNMFHKWLG3');
+        </script>
+    </head><body>
+<div class="global-container">
+  <div class="header-container" id="top"> <a href="index.html"><img src="/img/header.png" alt="Taihen's Hextinkers - ROM hacking e tradução de jogos" class="responsive-header-img"></a> </div>
+  <div class="menu-container">
+<input type="checkbox" id="menu-toggle" class="menu-toggle" />
+    <label for="menu-toggle" class="menu-toggle-btn">Menu</label>
+    <ul class="horizontal-menu">
+      <li><a href="/index">Home</a></li>
+      <li><a href="/traducoes">Traduções</a></li>
+      <li><a href="/tutoriais">Tutoriais</a></li>
+      <li><a href="/ferramentas">Ferramentas</a></li>
+      <li><a href="/links">Links</a></li>
+      <li><a href="/sobre">Sobre</a></li>
+      <li><a href="/index.html#contato">Contato</a></li>		
+    </ul>
+  </div>
+  <div class="content-container">
+    <article>
+
+  <header>
+    <h1>Transformar Mario em Wario mudando as cores</h1>
+  </header>
+
+  <div class="post-content">
+    <p>Transformar Mario em Wario mudando as cores</p>
+
+  </div>
+
+</article>
+  </div><div class="footer">
+    <p><strong>Total de Visitas #:</strong> <span id="hitcount"></span></p>
+    <p> <strong>Taihen's Hextinkers </strong>- ROM Hacking e Traduções de Jogos<br>
+      Inaugurado em 25 de outubro de 2023<br>
+	  Site estático ao melhor estilo 2005. Desenvolvido com Jekyll<br>
+	  Melhor visualizado no computador, porque celular é coisa de mané<br>
+		Funk é droga. Diga não as drogas. Rock 'n Roll na veia!<br>
+      Todos os direitos reservados aos autores das obras aqui referidas</p>
+    <img src="../img/misc/gif_drogas.gif" alt=""/>
+<p> <a href="/">Home</a> | <a href="../sobre">Sobre</a> | <a href="index.html#contato">Contato</a> | <a href="https://twitter.com/TaihenDarou" target="_blank">Twitter/X</a></p>
+    <script language="JavaScript">
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            var site_data = JSON.parse(this.responseText);
+            var num_arr = site_data.info.views.toString().split("");
+            var num_str = "";
+            for (i = 0; i < num_arr.length; i++) {
+              num_str += num_arr[i];
+              if ( (num_arr.length-1 - i) % 3 == 0 && (num_arr.length-1 - i) != 0 ) {num_str += ".";}
+            }
+            document.getElementById("hitcount").innerHTML = num_str;            
+          }
+        };
+        xhttp.open("GET", "https://weirdscifi.ratiosemper.com/neocities.php?sitename=hextinkers", true);
+        xhttp.send();
+      </script> 
+  </div></div>
+</body>
+</html>

@@ -1,0 +1,266 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+   body {
+    background-color: black;
+    color: #c5c5c5;
+    font-family: Verdana;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  p {
+    line-height: 1.3em;
+  }
+  a {
+    color: #478de7;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #1f5394;
+    text-decoration: underline;
+  }
+  
+  hr {
+    margin:50px 0;
+    border:none;	
+    border-top: 2px dotted #005393;
+  }
+  
+  .global-container {
+    box-sizing: border-box;
+    max-width: 960px;
+    margin: 0 auto; /* Centraliza o container */
+    padding: 0 0; 
+    text-align: left; /* já que você definiu esse estilo em .content-container */
+    width: 100%; /* garante que ocupe a totalidade do espaço disponível, até o máximo definido */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-left:1px solid #1e1e1e;
+    border-right:1px solid #1e1e1e;
+  }
+  
+  .header-container {
+    width: 100%;
+  }
+  
+  .content-container {
+    width: 95%;
+  }
+  
+  .responsive-header-img {
+    max-width: 100%; /* Garante que a imagem se ajuste à largura do container */
+    width: 960px;
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Remove o espaço extra ao redor da imagem */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+  }
+  .footer {
+    width: 100%;
+    margin: 35px 0 0 0;
+    padding: 10px 0; /* Isso adiciona algum espaço acima e abaixo do texto */
+    background-color: #1a1a1a; /* Cor de fundo cinza claro, mas você pode ajustar conforme sua preferência */
+    text-align: center; /* Centraliza o texto horizontalmente */
+    font-size: 85%;
+  }
+  .footer p {
+    margin: 10px 0; /* Espaço entre cada parágrafo */
+  }
+  .footer a {
+    color: #478de7; /* Cor do link - você pode ajustar conforme sua preferência */
+    text-decoration: none; /* Remove o sublinhado do link */
+  }
+  .footer a:hover {
+    color: #1f5394; /* Cor do link ao passar o mouse */
+    text-decoration: underline; /* Adiciona sublinhado ao link ao passar o mouse */
+  }
+
+  .dt-published {
+    font-style: italic;
+  }
+
+  h1 {
+    color: #478de7;
+    border-bottom: 2px dotted #005393; /* Define um sublinhado (border) de 2px de espessura. Você pode ajustar a espessura conforme preferir. */
+    padding-top: 25px;
+    padding-bottom: 10px; /* Adiciona um espaço entre o texto e o sublinhado. Ajuste conforme sua preferência. */
+    font-size: 20px;
+  }
+  h2 {
+    color: #478de7;
+    border-bottom: 2px dotted #005393; /* Define um sublinhado (border) de 2px de espessura. Você pode ajustar a espessura conforme preferir. */
+    padding-top: 25px;
+    padding-bottom: 10px; /* Adiciona um espaço entre o texto e o sublinhado. Ajuste conforme sua preferência. */
+    font-size: 20px;
+  }
+  .news article h2 {
+      font-size: 100%;
+    background-image:url("/img/misc/news_ico.gif");
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-top:10px;
+    padding-left: 35px;
+    color: #c5c5c5;
+    border:none;
+  
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img.custom-width-300 {
+    width: 300px; /* a altura será ajustada automaticamente */
+  }
+  img.custom-width-600 {
+    width: 100%;
+    max-width: 600px;
+  }
+  .image-container {
+    display: flex;
+    flex-wrap: wrap; /* permite que os itens sejam exibidos em novas linhas se não houver espaço */
+    justify-content: center; /* espaça as imagens igualmente */
+    gap: 10px;
+  }
+  .image-container img {
+    max-width: 100%; /* garante que a imagem não exceda a largura do contêiner */
+    margin: 10px 0; /* espaço entre as imagens quando estão empilhadas verticalmente */
+  }
+  .iframe-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    text-align: center;
+  }
+  .iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  pre {
+    padding: 10px;
+    border: 1px solid rgb(99, 99, 99);
+    background-color: #1a1a1a;
+  }
+  pre, code {
+    white-space: pre-wrap; /* CSS3 */
+    white-space: -moz-pre-wrap; /* Firefox */
+    white-space: -pre-wrap; /* Opera <7 */
+    white-space: -o-pre-wrap; /* Opera 7 */
+    word-wrap: break-word; /* IE */
+  }
+  .tabela {
+  display:table;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 12px;
+  }
+  
+  .tabela th, .tabela td {
+    border: 1px solid #252525;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  
+  .tabela th {
+  background: #002f54;	
+  box-shadow: 0 16px 20px rgba(255,255,255,.10) inset;	
+  
+  }
+  
+
+  .menu-container {
+    width: 100%;
+    background-color: #1a1a1a; /* Cor de fundo do menu */
+    overflow: hidden;
+	box-shadow: 0 16px 20px rgba(255,255,255,.10) inset;		
+}
+
+.horizontal-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centraliza os itens do menu */
+}
+
+.horizontal-menu li {
+    list-style: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.horizontal-menu li a {
+    display: block;
+    color: #478de7;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+
+.horizontal-menu li a:hover {
+    background-color: black;
+    color: #c5c5c5;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+    .horizontal-menu {
+        flex-direction: column; /* Empilha os itens do menu verticalmente */
+    }
+
+    .horizontal-menu li a {
+        width: 100%; /* Faz cada link ocupar toda a largura */
+    }
+}
+
+.menu-toggle {
+    display: none;
+	
+}
+
+.menu-toggle-btn {
+	box-shadow: 0 16px 20px rgba(255,255,255,.10) inset;		
+	display: none;
+    cursor: pointer;
+    padding: 12px 16px;
+    background-color: #1a1a1a;
+    color: white;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .menu-toggle {
+        display: none; /* Esconde o checkbox */
+    }
+
+    .menu-toggle-btn {
+        display: block; /* Mostra o botão em telas pequenas */
+    }
+
+    .horizontal-menu {
+        display: none; /* Oculta o menu por padrão */
+        flex-direction: column;
+    }
+
+    .menu-toggle:checked + .menu-toggle-btn + .horizontal-menu {
+        display: flex; /* Exibe o menu quando o checkbox é marcado */
+    }
+
+    .horizontal-menu li a {
+        width: 100%;
+		padding: 12px 0;
+    }
+}
