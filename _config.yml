@@ -1,5 +1,5 @@
-url: "https://taihendarou.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "hextinkers" # the subpath of your site, e.g. /blog
+url: "https://taihendarou.github.io/hextinkers/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 title: "Taihen's Hextinkers - Emulação, ROM Hacking e Tradução de Jogos" # the name of your site, e.g. ACME Corp.
 
 collections:
