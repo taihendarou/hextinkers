@@ -112,7 +112,7 @@ h2 {
 
 .news article h2 {
   font-size: 100%;
-  background-image: url("/img/misc/news_ico.gif");
+  background-image: url("{{site.url}}/img/misc/news_ico.gif");
   background-repeat: no-repeat;
   background-position: left center;
   padding-top: 10px;
