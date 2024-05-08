@@ -3,4 +3,4 @@ layout: page
 title: "Ferramentas para ROM Hacking e Tradução de Jogos"
 ---
 
-(Área em construção)
+Esta área ainda está sendo migrada para o novo servidor e novo sistema. Acesse a versão antiga em https://hextinkers.neocities.org/ferramentas
