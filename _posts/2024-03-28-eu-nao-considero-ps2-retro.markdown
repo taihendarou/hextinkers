@@ -26,13 +26,13 @@ Do Super Nintendo para o PlayStation 2, muito mudou. Do PlayStation 2 para o Pla
 
 Quanto à experiência de jogo, os jogos de PlayStation 2 se misturam com os atuais em muitos aspectos. Qualquer jogo de PS2, com um leve upscaling ou remasterização, pode facilmente ser confundido com jogos atuais, especialmente considerando os jogos disponíveis para dispositivos móveis. A similaridade gráfica e de jogabilidade faz com que os títulos do PS2 não causem estranheza nem mesmo às gerações mais jovens, que podem recebê-los com a mesma naturalidade de jogos contemporâneos, sem perceber que muitos destes já têm mais de 20 anos.
 
-<img src="img/artigo_ps2_retro/spiderman_games.png" alt="" class="centered">
+![Jogos do Homem-Aranha ao longo dos anos](/img/artigo_ps2_retro/spiderman_games.png){:class="centered"}
 
 A partir do PlayStation 2, tudo foi uma evolução tecnológica das mesmas coisas.
 
 O design de seu controle, por exemplo, estabeleceu um padrão que persiste até hoje. Tanto no PlayStation 2 quanto nos consoles atuais, a essência do controlador é a mesma: dois analógicos, D-Pad, quatro botões do lado direito e quatro botões de ombro. A partir disso, tivemos apenas melhorias incrementais, mas pouca ou quase nenhuma mudança conceitual.
 
-https://hextinkers.neocities.org/img/artigo_ps2_retro/controles_de_playstation.png
+![Controles de Playstation ao longo dos anos](/img/artigo_ps2_retro/controles_de_playstation.png){:class="centered"}
 
 A mídia física, embora tenha evoluído em capacidade, mantém-se conceitualmente a mesma, um disco óptico. Não houve uma mudança disruptiva como a que ocorreu do cartucho para o CD. Ou seja, o DVD do PlayStation 2 e o disco do PlayStation 5 são essencialmente a mesma coisa, apenas com a evolução natural fruto dos 20 anos de evolução tecnológica.
 
@@ -40,7 +40,7 @@ Além disso, a experiência de jogabilidade se mantém consistente através dos 
 
 Um jogo de aventura e exploração, como God of War, é essencialmente a mesma coisa que um jogo do mesmo gênero nos dias de hoje. O mesmo vale para jogos de tiro em primeira pessoa, jogos de esportes e os principais demais gêneros.
 
-https://hextinkers.neocities.org/img/artigo_ps2_retro/ps2_gow.jpeg
+![God of War PS2](/img/artigo_ps2_retro/ps2_gow.jpeg){:class="centered"}
 
 Novamente, a experiência de jogo é a mesma, apenas com evolução gráfica e de performance.
 
