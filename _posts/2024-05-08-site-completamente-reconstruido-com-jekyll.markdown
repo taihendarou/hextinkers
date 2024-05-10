@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Site reconstruído e com novo endereço!"
-date:   2024-05-07 21:20:11 -0300
+date:   2024-05-08 21:20:11 -0300
 ---
 É isso aí! Como comentei brevemente na última atualização, estava pensando em reconstruir o site inteiro utilizando a tecnologia Jekyll, um gerador de sites estáticos...
 

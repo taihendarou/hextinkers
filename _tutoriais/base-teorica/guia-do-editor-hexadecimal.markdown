@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Elementos do Editor Hexadecimal"
 order: 40
 ---

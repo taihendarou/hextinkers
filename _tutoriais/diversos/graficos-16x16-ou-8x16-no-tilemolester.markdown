@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Visualização de gráficos 16x16 (ou 8x16) no TileMolester"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Criando ou aplicando patch IPS em Python"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Alterando o número inicial de vidas do Mario"
 order: 40
 ---

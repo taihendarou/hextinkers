@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Criando tabela de caracteres"
 order: 20
 ---

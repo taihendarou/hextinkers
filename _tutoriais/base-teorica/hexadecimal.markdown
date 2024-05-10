@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "O sistema hexadecimal"
 order: 10
 ---

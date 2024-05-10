@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Transformar Mario em Wario mudando as cores"
 order: 30
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Aplicação de Patch IPS em ROMs"
 ---
 

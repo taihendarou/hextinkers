@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Sistema de Numeração Binária"
 order: 30
 ---

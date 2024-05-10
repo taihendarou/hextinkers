@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Deixando o Mario com vidas infinitas"
 order: 50
 ---

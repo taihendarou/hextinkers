@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Guia de Ponteiros de NES feito por Madhacker"
 ---
 

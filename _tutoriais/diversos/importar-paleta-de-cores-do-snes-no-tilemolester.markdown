@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Importar paleta do SNES para o TileMolester"
 ---
 

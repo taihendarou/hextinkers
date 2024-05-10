@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tutorial
 title:  "Bits e Bytes: Computação em baixo nível"
 order: 20
 ---
