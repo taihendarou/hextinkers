@@ -12,3 +12,6 @@ collections:
 
   tutoriais:
     output: true
+
+  ferramentas:
+    output: true
