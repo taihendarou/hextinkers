@@ -26,4 +26,13 @@ Confira alguns prints logo abaixo e em seguida, o link oficial do projeto para b
 ![Super Gokuden: Totsugeki-hen 5](/img/misc/dbz_sgth5.png){:class="custom-width-300"}
 ![Super Gokuden: Totsugeki-hen 6](/img/misc/dbz_sgth6.png){:class="custom-width-300"}
 
+### Equipe Responsável
+
+- **Tradução**: Nathan
+- **Ferramenta de Edição**: Neige
+- **Dublagem**: Bruno Sigaki
+- **Gráficos**: Taihen, Uão e Gopicolo
+- **Romhacking Adicional**: Taihen
+- **Revisão**: Adachi, Angelminerva, Arreguy, Azura, Bruno Sigaki, Foxythefoxd, Kixadaense, Nerivankazuto, Hethon e Sahgo
+
 Para download do patch e outros detalhes técnicos, acesse a página do projeto: [https://ntn-ss.github.io/Projetos_de_Traducao/DBZ-SGTH/](https://ntn-ss.github.io/Projetos_de_Traducao/DBZ-SGTH/){:target="_blank"}
