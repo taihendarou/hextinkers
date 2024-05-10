@@ -32,7 +32,7 @@ Colaborações são projetos que pude contribuir em uma ou mais áreas, mas com 
   <tr>
     <th>Jogo</th>
     <th>Plataforma</th>
-    <th>Contribuição</th>
+    <th>Minha Contribuição</th>
   </tr>
   <tr>
     <td><a href="https://patryckpo.com/traducoes/nes/adventure-island-iv/" target="_blank">Adventure Island IV</a></td>
@@ -49,4 +49,9 @@ Colaborações são projetos que pude contribuir em uma ou mais áreas, mas com 
     <td>Game Boy Advance</td>
     <td>Gráficos</td>
   </tr>
+  <tr>
+    <td><a href="https://ntn-ss.github.io/Projetos_de_Traducao/DBZ-SGTH/" target="_blank">Dragon Ball Z - Super Gokuuden: Totsugeki-hen</a></td>
+    <td>SNES</td>
+    <td>ROM Hacking e Gráficos</td>
+  </tr>  
 </table>
