@@ -15,6 +15,6 @@ Para eliminar esse erro, atualizamos o checksum. Existem diversas ferramentas qu
 
 O **IpsAndSum Snes Tool** é uma ferramenta simples e direta ao ponto para recalcular e atualizar checksum de SNES.
 
-![IPS Check and Sum](img/tutorial_misc/ips_checkandsum.png){:class="centered"}
+![IPS Check and Sum](/img/tutorial_misc/ips_checkandsum.png){:class="centered"}
 
 [Download do IPS and SUM para SNES](https://mega.nz/file/VzkUGK6I#JB1c_Hl4Da6GrsBUeryOUcoKcgSEfWVfP94eaUPT98E){:target="_blank"}
