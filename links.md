@@ -23,7 +23,7 @@ Páginas de grupos ou tradutores brasileiros
         <td>Grupo de tradução focado em Nintendo 3DS e jogos de Pokémon</td>
       </tr>
       <tr>
-        <td><a href="https://simpleskans.github.io/" target="_blank">Simple Skans</a></td>
+        <td><a href="https://simpleskans.com.br/" target="_blank">Simple Skans</a></td>
         <td>Projetos de tradução do ROM Hacker KryFi, com foco em jogos de NES e Game Boy Advance</td>
       </tr>
       <tr>
