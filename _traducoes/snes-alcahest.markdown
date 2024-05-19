@@ -61,10 +61,11 @@ Lançado em 1993, o jogo teve Satoru Iwata como produtor. Ele ganhou notoriedade
 - **Download do Patch**: [Link do Mega](https://mega.nz/file/t7kFTZDZ#t7upAvzbcOW76N5yXpOH3I8546iMQ8yHBNtOqoGJN0c){:target="_blank"}
 
 ## Vídeo
-(Vídeo em breve)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_DRF-Z1-cc?si=M5KvkvnnyDpUvYre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Outros links
 
-- Publicação da tradução no FURT
+- [Publicação da tradução no FURT](https://www.romhacking.net.br/index.php?topic=2755.0){:target="_blank"}
 - Publicação da tradução no RomHacking.net
 - [Gamefaqs do jogo](https://gamefaqs.gamespot.com/snes/566298-alcahest){:target="_blank"}
