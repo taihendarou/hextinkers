@@ -34,4 +34,4 @@ Confira algumas imagens:
 ![Alcahest em Português 9](/img/misc/alcahest_8.png)
 ![Alcahest em Português 10](/img/misc/alcahest_9.png)
 
-Você já pode fazer o download do patch acessando nossa área de [Traduções].
+Você já pode fazer o download do patch acessando nossa área de [Traduções](/traducoes).
