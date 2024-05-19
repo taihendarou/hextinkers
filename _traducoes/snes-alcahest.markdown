@@ -41,11 +41,11 @@ Lançado em 1993, o jogo teve Satoru Iwata como produtor. Ele ganhou notoriedade
 
 {:.text-align-center}
 ![Alcahest em Português 3](/img/projeto_alcahest/Alcahest_2.png)
-![Alcahest em Português 4](/img/projeto_alcahest/alcahest_3.png)
+![Alcahest em Português 4](/img/projeto_alcahest/Alcahest_3.png)
 
 {:.text-align-center}
 ![Alcahest em Português 5](/img/projeto_alcahest/Alcahest_4.png)
-![Alcahest em Português 6](/img/projeto_alcahest/alcahest_5.png)
+![Alcahest em Português 6](/img/projeto_alcahest/Alcahest_5.png)
 
 {:.text-align-center}
 ![Alcahest em Português 7](/img/projeto_alcahest/Alcahest_6.png)
@@ -58,7 +58,7 @@ Lançado em 1993, o jogo teve Satoru Iwata como produtor. Ele ganhou notoriedade
 ## Download do patch de tradução
 
 - **Formato do Patch**: IPS
-- **Download do Patch**: [Link do Mega](https://mega.nz/file/t7kFTZDZ#t7upAvzbcOW76N5yXpOH3I8546iMQ8yHBNtOqoGJN0c){:target="_blank"}
+- **Download do Patch**: [Link do Mega](https://mega.nz/file/5jsCRDzJ#QMwQPnK_Hx8lFvUCGZueyTAkW3URWaTiv0nO-gmrrKI){:target="_blank"}
 
 ## Vídeo
 

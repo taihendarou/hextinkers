@@ -20,11 +20,11 @@ Confira algumas imagens:
 
 {:.text-align-center}
 ![Alcahest em Português 3](/img/projeto_alcahest/Alcahest_2.png)
-![Alcahest em Português 4](/img/projeto_alcahest/alcahest_3.png)
+![Alcahest em Português 4](/img/projeto_alcahest/Alcahest_3.png)
 
 {:.text-align-center}
 ![Alcahest em Português 5](/img/projeto_alcahest/Alcahest_4.png)
-![Alcahest em Português 6](/img/projeto_alcahest/alcahest_5.png)
+![Alcahest em Português 6](/img/projeto_alcahest/Alcahest_5.png)
 
 {:.text-align-center}
 ![Alcahest em Português 7](/img/projeto_alcahest/Alcahest_6.png)
