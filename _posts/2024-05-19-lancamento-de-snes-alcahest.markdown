@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lançamento da tradução de Alcahest para SNES!"
-date:   2024-05-19 18:40:00 -0300
+date:   2024-05-19 13:00:00 -0300
 ---
 
 É isso aí! Finalmente este projeto está finalizado e disponível para todos!
