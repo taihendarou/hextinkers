@@ -15,23 +15,23 @@ Tudo está aparentemente redondinho, inclusive sendo esta uma das únicas versõ
 Confira algumas imagens:
 
 {:.text-align-center}
-![Alcahest em Português 1](/img/misc/alcahest_0.png)
-![Alcahest em Português 2](/img/misc/alcahest_1.png)
+![Alcahest em Português 1](/projeto_alcahest/misc/Alcahest_0.png)
+![Alcahest em Português 2](/projeto_alcahest/misc/Alcahest_1.png)
 
 {:.text-align-center}
-![Alcahest em Português 3](/img/misc/alcahest_2.png)
-![Alcahest em Português 4](/img/misc/alcahest_3.png)
+![Alcahest em Português 3](/projeto_alcahest/misc/Alcahest_2.png)
+![Alcahest em Português 4](/projeto_alcahest/misc/alcahest_3.png)
 
 {:.text-align-center}
-![Alcahest em Português 5](/img/misc/alcahest_4.png)
-![Alcahest em Português 6](/img/misc/alcahest_5.png)
+![Alcahest em Português 5](/projeto_alcahest/misc/Alcahest_4.png)
+![Alcahest em Português 6](/projeto_alcahest/misc/alcahest_5.png)
 
 {:.text-align-center}
-![Alcahest em Português 7](/img/misc/alcahest_6.png)
-![Alcahest em Português 8](/img/misc/alcahest_7.png)
+![Alcahest em Português 7](/projeto_alcahest/misc/Alcahest_6.png)
+![Alcahest em Português 8](/projeto_alcahest/misc/Alcahest_7.png)
 
 {:.text-align-center}
-![Alcahest em Português 9](/img/misc/alcahest_8.png)
-![Alcahest em Português 10](/img/misc/alcahest_9.png)
+![Alcahest em Português 9](/projeto_alcahest/misc/Alcahest_8.png)
+![Alcahest em Português 10](/projeto_alcahest/misc/Alcahest_9.png)
 
 Você já pode fazer o download do patch acessando nossa área de [Traduções](/traducoes).
