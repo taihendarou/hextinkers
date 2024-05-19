@@ -2,7 +2,7 @@
 layout: page
 title:  "Alcahest"
 console: "SNES"
-status: "Em andamento"
+status: "Finalizado"
 ---
 
 Alcahest é um RPG de ação que apresenta batalhas em tempo real. O jogador assume o papel de Alen, um espadachim em uma missão para libertar o mundo das mãos do imperador Babilom, um emissário do Deus do Mundo Demoníaco, Alcahest. Durante a aventura, o jogador encontra aliados, procura itens e desenvolve suas habilidades.
@@ -13,27 +13,58 @@ Lançado em 1993, o jogo teve Satoru Iwata como produtor. Ele ganhou notoriedade
 
 ## Ficha técnica
 
-Título: Alcahest (アルカエスト)
-Plataforma: Super Famicom / Super NES
-Desenvolvedora: HAL Laboratory
-Publicadora: Square
-Gênero: RPG de Ação
-Lançamento: 17 de dezembro de 1993
+- **Título**: Alcahest (アルカエスト)
+- **Plataforma**: Super Famicom / Super NES
+- **Desenvolvedora**: HAL Laboratory
+- **Publicadora**: Square
+- **Gênero**: RPG de Ação
+- **Lançamento**: 17 de dezembro de 1993
 
 # Equipe
 
 - **Dindo**: Coordenação e Tradução
 - **Taihen**: ROM Hacking e Programação
+- **Sliter**: Gráficos "GAME OVER" e "THE END"
 
 ## Informações para aplicar o patch
-(Projeto em andamento. Informações em breve)
+
+- **Database match**: Alcahest (Japan)
+- **Database**: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+- **File/ROM SHA-1**: DAC852EA9FF3141DE5DC6377307B16811F607008
+- **File/ROM CRC32**: 870427D0
+
+## Imagens da Tradução
+
+{:.text-align-center}
+![Alcahest em Português 1](/img/projeto_alcahest/alcahest_0.png)
+![Alcahest em Português 2](/img/projeto_alcahest/alcahest_1.png)
+
+{:.text-align-center}
+![Alcahest em Português 3](/img/projeto_alcahest/alcahest_2.png)
+![Alcahest em Português 4](/img/projeto_alcahest/alcahest_3.png)
+
+{:.text-align-center}
+![Alcahest em Português 5](/img/projeto_alcahest/alcahest_4.png)
+![Alcahest em Português 6](/img/projeto_alcahest/alcahest_5.png)
+
+{:.text-align-center}
+![Alcahest em Português 7](/img/projeto_alcahest/alcahest_6.png)
+![Alcahest em Português 8](/img/projeto_alcahest/alcahest_7.png)
+
+{:.text-align-center}
+![Alcahest em Português 9](/img/projeto_alcahest/alcahest_8.png)
+![Alcahest em Português 10](/img/projeto_alcahest/alcahest_9.png)
 
 ## Download do patch de tradução
-(Projeto em andamento. Informações em breve)
+
+- **Formato do Patch**: IPS
+- **Download do Patch**: [Link do Mega](https://mega.nz/file/t7kFTZDZ#t7upAvzbcOW76N5yXpOH3I8546iMQ8yHBNtOqoGJN0c){:target="_blank"}
 
 ## Vídeo
-(Projeto em andamento. Informações em breve)
+(Vídeo em breve)
 
 ## Outros links
 
-- [Gamefaqs do jogo](https://gamefaqs.gamespot.com/snes/566298-alcahest)
+- Publicação da tradução no FURT
+- Publicação da tradução no RomHacking.net
+- [Gamefaqs do jogo](https://gamefaqs.gamespot.com/snes/566298-alcahest){:target="_blank"}
