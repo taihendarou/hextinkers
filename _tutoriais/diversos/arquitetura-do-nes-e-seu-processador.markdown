@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Arquitetura do NES"
-date:   2024-05-16 00:00:00 -0300
+layout: tutorial
+title:  "A arquitetura do NES e seu processador 6502"
 ---
+
+Esta é uma explicação introdutória sobre a arquitetura geral do NES / Super Famicom, algumas informações relevantes sobre os cartuchos e sobre o processador 6502.
 
 ## O cartucho e suas ROMs
 
@@ -67,3 +68,5 @@ Endereço        |   Descrição
 0x4020 - 0x5FFF |   Espaço não mapeado, disponível para uso pelo cartucho
 0x6000 - 0x7FFF |   RAM de trabalho ou de backup com bateria (conhecida como WRAM ou PRG-RAM)
 0x8000 - 0xFFFF |   ROM do cartucho e registradores de mapeamento
+
+De modo geral, ao analisarmos a memória do processador a partir de `0x8000`, nos deparamos com o início da execução do programa. No caso de ROMs de jogos, a execução do jogo começa por ali.
