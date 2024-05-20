@@ -3,7 +3,7 @@ layout: page
 title: "Links sobre a ROM Hacking e Tradução de Jogos"
 ---
 
-Páginas de grupos ou tradutores brasileiros
+Páginas de grupos ou outros tradutores
 
 <table class="tabela">
       <tbody><tr>
@@ -46,6 +46,10 @@ Páginas de grupos ou tradutores brasileiros
         <td><a href="https://strbrgames.blogspot.com/" target="_blank">STR Brasil</a></td>
         <td>Site de projetos do rom hacker Mumm-Ra</td>
       </tr>
+      <tr>
+        <td><a href="https://retrogaliciatraducions.blogspot.com/" target="_blank">Retro Galicia Traducións</a></td>
+        <td>Projetos de tradução de jogos para o idioma galego</td>
+      </tr>      
       <tr>
         <td><a href="https://www.snesforever.com.br/" target="_blank">SNES Forever</a></td>
         <td>Especializado em publicar traduções e hacks de jogos de SNES</td>
