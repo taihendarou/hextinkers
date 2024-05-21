@@ -34,4 +34,4 @@ Confira algumas imagens:
 ![Alcahest em Português 9](/img/projeto_alcahest/Alcahest_8.png)
 ![Alcahest em Português 10](/img/projeto_alcahest/Alcahest_9.png)
 
-Você já pode fazer o download do patch acessando nossa área de [Traduções](/traducoes).
+Você já pode fazer o download do patch acessando o [projeto na área de Traduções](https://hextinkers.org/traducoes/snes-alcahest.html).

@@ -67,5 +67,5 @@ Lançado em 1993, o jogo teve Satoru Iwata como produtor. Ele ganhou notoriedade
 ## Outros links
 
 - [Publicação da tradução no FURT](https://www.romhacking.net.br/index.php?topic=2755.0){:target="_blank"}
-- Publicação da tradução no RomHacking.net
+- [Publicação da tradução no RomHacking.net](https://www.romhacking.net/translations/7306/){:target="_blank"}
 - [Gamefaqs do jogo](https://gamefaqs.gamespot.com/snes/566298-alcahest){:target="_blank"}
