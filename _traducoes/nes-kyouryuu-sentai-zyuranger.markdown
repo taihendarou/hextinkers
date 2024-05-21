@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Kyouryuu Sentai Zyuranger"
 console: "NES"
 status: "Finalizado"

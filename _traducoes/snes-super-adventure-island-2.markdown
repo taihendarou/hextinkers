@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Super Adventure Island 2"
 console: "SNES"
 status: "Em andamento"

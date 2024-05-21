@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Beat Planet Music"
 console: "Playstation"
 status: "Hibernando"

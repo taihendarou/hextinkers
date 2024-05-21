@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Alcahest"
 console: "SNES"
 status: "Finalizado"

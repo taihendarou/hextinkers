@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Bomberman Wii"
 console: "Nintendo Wii"
 status: "Em andamento"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Neugier: Umi to Kaze no Kodō"
 console: "SNES"
 status: "Finalizado"

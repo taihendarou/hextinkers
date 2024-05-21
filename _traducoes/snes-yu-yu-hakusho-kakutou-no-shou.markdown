@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Yu Yu Hakusho 2: Kakuto no Sho"
 console: "SNES"
 status: "Finalizado"

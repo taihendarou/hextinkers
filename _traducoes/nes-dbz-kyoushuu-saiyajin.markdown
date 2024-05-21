@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: traducao
 title:  "Dragon Ball Z - Kyoushuu! Saiyajin"
 console: "NES"
 status: "Finalizado"
