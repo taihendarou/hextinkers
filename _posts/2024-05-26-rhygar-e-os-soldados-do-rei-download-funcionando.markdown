@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como jogar Rhygar e os Soldados do Rei (versão revisada)"
+title:  "Como jogar Rhygar e os Soldados do Rei (versão revisada + link para download)"
 date:   2024-05-26 00:00:00 -0300
 ---
 
