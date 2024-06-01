@@ -6,7 +6,7 @@ date:   2024-05-26 00:00:00 -0300
 
 É isso aí! Saiu uma nova versão do Tile Molester, o clássico editor de tiles feito em Java e que comporta muitas plataformas, inclusive possibilitando a criação de novos codecs gráficos.
 
-Para mim, essa versão é especialmente importante por melhorar aspectos para MacOS, meu principal sistema operacional.
+Para mim, essa versão é especialmente importante por melhorar aspectos para macOS, meu principal sistema operacional.
 
 Veja a lista de implementações neste release:
 
@@ -20,14 +20,14 @@ Veja a lista de implementações neste release:
 - Várias correções e mudanças
 - Uso do Maven para construção (PR por devnewton)
 
-Veja como a interface está mais bonita e mais fluída:
+Veja como a interface está mais bonita e mais fluida:
 
 {:.text-align-center}
 ![Novo Tile Molester](/img/misc/molesteiro-de-tiles-.21.png){:custom-width-600}
 
 [Segue link do release para download da versão 0.21](https://github.com/toruzz/TileMolester/releases/tag/v0.21){:target="_blank"}
 
-Lembrando que é um programa anti-usuário leigo para rodar. Precisa dar linnha de comando para executar. Faça o seguinte (no macOS):
+Lembrando que é um programa anti-usuário leigo para rodar. Precisa dar linha de comando para executar. Faça o seguinte (no macOS):
 
 1- Abra o terminal (cmd + space: Digite `cmd`)
 

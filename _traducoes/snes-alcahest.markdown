@@ -58,7 +58,7 @@ Lançado em 1993, o jogo teve Satoru Iwata como produtor. Ele ganhou notoriedade
 ## Download do patch de tradução
 
 - **Formato do Patch**: IPS
-- **Download do Patch**: [Link do Mega](https://mega.nz/file/wjtQHSiB#UwzQc3-89E3ktu4HKj1Vo10TVAEo_m6nzeLghi6nq7){:target="_blank"}
+- **Download do Patch**: [Link do Mega](https://mega.nz/file/wjtQHSiB#UwzQc3-89E3ktu4HKj1Vo10TVAEo_m6nzeLghi6nq74){:target="_blank"}
 
 ## Vídeo
 
