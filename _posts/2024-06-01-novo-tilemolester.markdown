@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Nova versão do Tile Molester"
-date:   2024-05-26 00:00:00 -0300
+title:  "Nova versão do Tile Molester 0.21 + Alcahest Update v1.2"
+date:   2024-06-01 00:00:00 -0300
 ---
 
 É isso aí! Saiu uma nova versão do Tile Molester, o clássico editor de tiles feito em Java e que comporta muitas plataformas, inclusive possibilitando a criação de novos codecs gráficos.
@@ -73,7 +73,7 @@ Eu espero não ter uma versão 1.3. Mas se surgirem novos erros, estaremos pront
 
 [Faça o download aqui na página do projeto do Alcahest](/traducoes/snes-alcahest.html)
 
-É isso aí. Fique agora com um b-side do Iron Maiden para subir o nível da sua mente e de seu ambiente. Acabei de sair um programa social onde rolou karaoke com sertanejo. Tenho que desinfectar minha mente.
+É isso aí. Fique agora com um b-side do Iron Maiden para subir o nível da sua mente e de seu ambiente. Acabei de sair um programa social onde rolou karaoke com sertanejo. Tenho que desinfetar minha mente.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/T5WpPLRrhac?si=zMzyH_cEyUcIeWtN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
