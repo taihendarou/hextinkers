@@ -35,30 +35,6 @@ Lembrando que é um programa anti-usuário leigo para rodar. Precisa dar linnha 
 
 3- Dentro dessa pasta, temos o tilemolester.jar. Não adianta dar dois cliques para executar. Precisa de linha de comando. Rode: `java -jar tilemolester.jar`
 
-Se quiser mais facilidade, faça o seguinte:
-
-1- Crie um arquivo Tilemolester.sh, com o editor de texto.
-
-2- Dentro dele, coloque os comandos a seguir, atualizando para seus caminhos locais:
-
-<pre>
-#!/bin/bash
-cd ~/Documents/ROM\ HACKING/-TOOLS/tilemolester-0.21
-java -jar tilemolester.jar</pre>
-
-3- Salve as mudanças e deixa aí.
-
-4- Abra a ferramenta própria do macOS chamada Automator. Alique em `Arquivo` -> `Novo`.Selecione `Executar AppleScript`.
-
-5- Na barra de comando que surgiri, digite:
-<pre>do shell script "\"/Users/luizrafaelpassari/Documents/ROM HACKING/-TOOLS/tilemolester-0.21/TileMolester.sh\""</pre>
-
-Salve dentro da plasta de Aplications / Application.
-
-Pronto, poderá executá-lo digitando Tilemolester no Spotlight.
-
-Não é difícil. É mais trabalhoso do que clicar em ícones que já vem pronto, mas veja isto como o treino para se tornar pica da computação!
-
 Aproveite que o programa ficou bom.
 
 Agora vamos ao **Alcahest**!
