@@ -3,7 +3,7 @@ layout: traducao
 title:  "Dragon Ball Z - Kyoushuu! Saiyajin"
 console: "NES"
 status: "Finalizado"
-download: "https://mega.nz/folder/prslFAhJ#-upTKazyBRZEiwJjGlqZFQ"
+download: "https://mega.nz/file/B6NxnSRJ#cEhAKd3vOuyg9ZsF6MEDzhe6x5DE3ZttVZDIot-89lQ"
 ---
 
 O primeiro jogo de Dragon Ball Z para videogames, totalmente em português!
@@ -39,6 +39,8 @@ Apesar de ser antigo e de terem sido lançados diversos outros jogos que retrata
 
 ## Sobre a Tradução
 
+Versão 1.1 (07/06/2024)
+
 Tradução lançada em 27 de setembro de 2023. O projeto teve início em 26 de julho de 2023, traduzindo diretamente do original em japonês. Para evitar abreviações, ajustamos o layout das interfaces do jogo para acomodar palavras mais extensas, mas sempre buscando preservar a originalidade do jogo.
 
 ![dbz04](/img/dbz_kyoushuu_saiyajin/dbz04.png){:class="centered"}
@@ -71,6 +73,8 @@ Agradecimento especial a badnest pelas conversas sobre Assembly na busca por enc
 - **CRC32**: 0292b41d
 - **MD5**: ecd08e122bc7f61519f2cfd52aa9bc2b
 - **SHA-1**: aa8fba68f1ca8cd8015677e9dd12f06f17a1ba7a
+
+**Atenção**: Se você baixou o patch antes de 7 de junho de 2024, baixe novamente com a versão 1.1! Dois pequenos erros de texto foram corrigidos.
 
 Procure pelas ROMs catalogadas pelo grupo No-Intro.
 
