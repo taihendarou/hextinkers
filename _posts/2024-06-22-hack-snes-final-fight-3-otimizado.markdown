@@ -12,4 +12,6 @@ Eu acho que nunca vi um vídeo do tipo feito por um brasileiro. Não só entrand
 
 Segue abaixo o vídeo. Excelente oportunidade de aprendizado para você que tem interesse em programação de SNES.
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C13XLqxQQ5E?si=QZE1LSFY-nsEkY-y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>

@@ -19,3 +19,6 @@ Quando o projeto se torna muito grande, deixa de ser um mero hobby e passa a ser
 É o mesmo que acontece com projetos que tomam intimações de copyright. Só acontece porque chamaram a atenção demais! O Yuzu, por exemplo, começou a envolver dinheiro. Aí não tem como!
 
 Leia na íntegra o comunicado do fim: [RIP Rom Hacking](https://www.romhacking.net/forum/index.php?topic=39405){:target="_blank"}!
+
+{:.text-align-center}
+![Iron Maien Dance Skull](/img/misc/rip-blk1.gif)![Iron Maien Dance Skull](/img/misc/rip-blk1.gif)![Iron Maien Dance Skull](/img/misc/rip-blk1.gif)
