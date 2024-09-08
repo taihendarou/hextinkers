@@ -1,15 +1,24 @@
 ---
 layout: post
-title:  "Tutorial de como transferir arquivos para o Nintendo 3DS por FTP"
-date:   2024-09-08 00:00:00 -0300
+title:  "Fim do RomHacking.net"
+date:   2024-08-07 00:00:00 -0300
 ---
 
-Nos últimos tempos, estou jogando muito no Nintendo 3DS (acho que deliberadamente escolho estar sempre atrás da geração atual de videogames, mesmo tendo um Switch). Comprei o meu aparelho atual já desbloqueado, mas quase não explorei o processo de instalação de homebrews ou instalação de outros jogos. Isso porque tenho uma coleçãozinha de jogos acumulada de uma outra época em que tive um Nintendo 3DS clássico (na época eu vendi, e atualmente tenho o New Nintendo 3DS XL).
+É, meus amigos! O famoso portal romhacking.net deixará de ser como conhecemos. Não é bem um fim, mas deixará de ser uma plataforma qe funcionava como uma espécie de central do rom hacking internacional. Agora, será apenas um portal de notícias.
 
-Aí que tá, o New Nintendo 3DS XL tem todas as suas vantagens, mas tem um grande inconveniente: precisa DESPARAFUZAR para acessar o cartão de memória! Ou seja, não é só pegar o cartão de memória, colocar no PC, tacar-lhe ROMs e devolver ao aparelho...
+Este site esteve conosco por mais de 20 anos. Quase toda a história do romhacking estava lá. Um grande acervo de tutoriais e ferramentas feitos desde a década de 90!
 
-Então fui atrás de formas alternativas de transferir arquivos do PC para o console, e a forma mais conveniente que encontrei foi pelo protocolo FTP. Aproveitei para aprender um pouco sobre os formatos de arquivos desse console também.
+Essa base não está perdida. Ficará devidamente arquivada, até porque, segundo os administradores, é de "apenas" 11gb. A questão é como será daqui para frente. Os novos projetos serão publicados de forma descentralizada? Haverá um hub que tomará o lugar do romhacking.net?
 
-E assim fiz este tutorial. Criar estes tutoriais é também uma forma de eu não me esquecer quando, daqui uns anos, precisar de novo (já que minha memória já foi dessas para melhor).
+Pessoalmente, acredito que não haverá um substituto. Talvez ocorra o mesmo que no Brasil: A divulgação dos projetos centralizem no fórum.
 
-Então aqui está o tutorial: [Enviar arquivos para o Nintendo 3DS via FTP](/tutoriais/diversos/enviar-arquivos-para-nintendo-3ds-por-ftp.html)
+Bom, sobre o motivo que levou ao fim do site... É algo que eu venho falando por aí. Rom hacking tem que ser um hobby underground. Os projetos não podem crescer demais. Não podem chamar muito a atenção, não podem envolver grandes estruturas ou muita gente envolvida. Quando isso acontece, o destino é o buraco!
+
+Quando o projeto se torna muito grande, deixa de ser um mero hobby e passa a ser uma obrigação. Pessoas te cobram, começa um jogo de ego, ocorrem brigas, traições e toda problemática do relacionamento humano que, na boa, é justamente do que deveríamos estar fugindo ao engajar em um hobby tão introspectivo e incomum.
+
+É o mesmo que acontece com projetos que tomam intimações de copyright. Só acontece porque chamaram a atenção demais! O Yuzu, por exemplo, começou a envolver dinheiro. Aí não tem como!
+
+Leia na íntegra o comunicado do fim: [RIP Rom Hacking](https://www.romhacking.net/forum/index.php?topic=39405){:target="_blank"}!
+
+{:.text-align-center}
+![Iron Maien Dance Skull](/img/misc/rip-blk1.gif)![Iron Maien Dance Skull](/img/misc/rip-blk1.gif)![Iron Maien Dance Skull](/img/misc/rip-blk1.gif)
