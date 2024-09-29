@@ -55,6 +55,9 @@ E para finalizar, este projeto me levou a reassistir ao anime, ao menos as parte
 
 Muito obrigado a todos dos servidores do Discord que acompanharam, apoiaram, deram sugestões e ajudaram a execução deste projeto ser mais divertida. Obrigado a Jv132 por um ajuste no anti-aliasing da fonte, Denim por ter ajudado a encontrar a tabela de propriedades do scroll do tilemap do menu principal, Joapper por sugestões de fonte e a todos que apoiaram: Dindo, patryckpo, Mumm-Ra, Hyd~, ajkmetiuk, Satty, badnest, Arara, honmaru (que fará versão em espanhol!), Sora Leon e GameRulez. Além da equipe oficial do projeto: vervalkon e Sliter!
 
+- Versão 1.0 lançada em 14/02/2024
+- Versão 1.1 lançada em 29/09/2024
+
 ## Equipe
 
 - **Taihen**: Tradução e ROM Hacking
@@ -88,9 +91,6 @@ Caso precise de ajuda para entender o que é o patch e como aplicá-lo, clique a
 
 - **Formato do Patch**: IPS
 - **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.1)
-
-Versão 1.0 lançada em 14/02/2024
-Versão 1.1 lançada em 29/09/2024
 
 Lembre-se que nós disponibilizamos apenas o patch de tradução. Você deverá aplicá-lo em sua ROM, baixada ou adquirida em outro lugar. Clique aqui para saber mais sobre este processo.
 
