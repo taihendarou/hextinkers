@@ -3,7 +3,7 @@ layout: traducao
 title:  "Yu Yu Hakusho 2: Kakuto no Sho"
 console: "SNES"
 status: "Finalizado"
-download: "https://mega.nz/file/l7FVGR7b#Z4e5AamGNIJHO54FHZi4XR1UgCe3hqo-2EUnkRFz3gM"
+download: "https://mega.nz/file/83FngIhD#oc3z9280J06qqfuejgA0WcuczfrJtoQv5MTX2eEWdmk"
 ---
 
 Yu Yu Hakusho 2: Kakutou no Sho é um jogo de luta em estilo 1x1 baseado no clássico anime Yu Yu Hakusho, famoso no Brasil nos anos 90 e início dos anos 2000. O jogo segue a narrativa do anime até o fim do Torneio das Trevas, com lutas um contra um entre os principais personagens da série.
@@ -87,7 +87,10 @@ Caso precise de ajuda para entender o que é o patch e como aplicá-lo, clique a
 ## Download do patch
 
 - **Formato do Patch**: IPS
-- **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"}
+- **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.1)
+
+Versão 1.0 lançada em 14/02/2024
+Versão 1.1 lançada em 29/09/2024
 
 Lembre-se que nós disponibilizamos apenas o patch de tradução. Você deverá aplicá-lo em sua ROM, baixada ou adquirida em outro lugar. Clique aqui para saber mais sobre este processo.
 
