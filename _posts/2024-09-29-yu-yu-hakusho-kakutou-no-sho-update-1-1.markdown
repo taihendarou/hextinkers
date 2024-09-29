@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Atualização de Yu Yu Hakusho 2: Kakutou no Sho (versão 1.1)"
-date:   2024-09-08 00:00:00 -0300
+date:   2024-09-29 00:00:00 -0300
 ---
 
 Buenas! Passando para informar que lancei a versão 1.1 do patch de tradução do Yu Yu Hakusho 2.
