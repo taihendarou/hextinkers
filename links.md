@@ -117,9 +117,16 @@ Sites internacionais sobre emulação e relacionados
         <td>Acervo de capas de jogos scanneadas em alta qualidade</td>
       </tr>
       <tr>
+        <td><a href="https://www.nintandbox.net/">NintAndBox.net</a></td>
+        <td>Download de capas, manuais e labels</td>
+      </tr>
+      <tr>
         <td><a href="https://supernintendolabels.blogspot.com/" target="_blank">Super Nintendo Labels</a></td>
         <td>Acervo de labels para cartuchos de Supes NES (site brasileiro)</td>
       </tr>
+      <tr>
+      <td><a href="https://www.vgmusic.com/" target="_blank">VIDEOGAME Music Archive</a></td>
+      <td>Download de músicas de jogos, primordialmente em formato mid</td>
       <tr>
         <td><a href="https://redketchup.io/bulk-image-resizer" target="_blank">Bulk Image Resizer</a></td>
         <td>Ferramenta para alterar o tamanho de imagem em massa</td>
