@@ -6,7 +6,7 @@ layout: base
 
 <div class="news">
 
-{% for post in site.posts %}
+{% for post in site.posts limit: 25 %}
 <article>
   <h2>
     <a href="{{site.url}}{{ post.url }}">
@@ -17,6 +17,8 @@ layout: base
 </article>
 <hr>
 {% endfor %}
+
+<a href="/arquivo"><p style="text-align: center">Acesse aqui as notícias anteriores</p></a>
 
 </div>
 
