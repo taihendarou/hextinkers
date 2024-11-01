@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gameplay real do Luigi em Super Mario 64!"
-date:   2024-10-30 00:00:00 -0300
+date:   2024-10-31 00:00:00 -0300
 ---
 
 Sabemos que, durante anos, quiçá décadas, correu o boato de que seria possível jogar com Luigi em Super Mario 64. Este boato era inclusive alimentado pela suposta mensagem escrita em uma fonte: “L is real”.
