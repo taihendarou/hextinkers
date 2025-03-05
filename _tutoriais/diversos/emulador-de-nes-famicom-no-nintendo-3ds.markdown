@@ -1,13 +1,13 @@
 ---
 layout: tutorial
-title:  "Como Instalar o Emulador de NES no Nintendo 3DS "
+title:  "Como Instalar o Emulador de NES no Nintendo 3DS"
 ---
 
 Este tutorial mostra como jogar jogos de NES (Famicom) no Nintendo 3DS utilizando o emulador **VirtuaNES 3DS**. O método recomendado instala o emulador diretamente no menu do 3DS, permitindo acesso rápido sem precisar do Homebrew Launcher.
 
 ## O que você precisa  
 - Um **Nintendo 3DS desbloqueado** com Homebrew  
-- O emulador **VirtuaNES 3DS** ([baixe aqui](https://github.com))  
+- O emulador **VirtuaNES 3DS** ([baixe aqui](https://github.com/bubble2k16/emus3ds/releases))  
 - ROMs de NES no formato `.nes`  
 - O aplicativo **FBI** instalado para instalar arquivos `.cia`  
 
