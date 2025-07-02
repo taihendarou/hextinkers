@@ -1,0 +1,8 @@
+---
+layout: none
+permalink: /robots.txt
+---
+User-agent: *
+Allow: /
+
+Sitemap: https://hextinkers.org/sitemap.xml
