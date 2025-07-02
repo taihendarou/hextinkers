@@ -54,4 +54,9 @@ Colaborações são projetos que pude contribuir em uma ou mais áreas, mas com 
     <td>SNES</td>
     <td>ROM Hacking e Gráficos</td>
   </tr>  
+  <tr>
+    <td><a href="https://www.romhacking.net.br/index.php?topic=3026.0" target="_blank">Samurai Deeper Kyo</a></td>
+    <td>PSX</td>
+    <td>Tradução</td>
+  </tr>   
 </table>
