@@ -59,8 +59,12 @@ Páginas de grupos ou outros tradutores
         <td>Foi por muito tempo um agregador de traduções, tutoriais e ferramentas, mas está abandonado</td>
       </tr>
       <tr>
+        <td><a href="https://emuallsystems.neocities.org/" target="_blank">REIROM'S EMU ALL SYSTEM</a></td>
+        <td>Brasileiro que está desenvolvendo um sistema capaz de emular todos os sistemas</td>
+      </tr>      
+      <tr>
         <td><a href="https://www.brgames.org/" target="_blank">BR GAMES</a></td>
-        <td>Provavelmente o site sobre tradução de roms a mais tempo no ar</td>
+        <td>Provavelmente o site sobre tradução de roms há mais tempo no ar</td>
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/@Drax01-qe9lp" target="_blank">Drax01</a></td>
@@ -122,11 +126,12 @@ Sites internacionais sobre emulação e relacionados
       </tr>
       <tr>
         <td><a href="https://supernintendolabels.blogspot.com/" target="_blank">Super Nintendo Labels</a></td>
-        <td>Acervo de labels para cartuchos de Supes NES (site brasileiro)</td>
+        <td>Acervo de labels para cartuchos de Super NES (site brasileiro)</td>
       </tr>
       <tr>
       <td><a href="https://www.vgmusic.com/" target="_blank">VIDEOGAME Music Archive</a></td>
       <td>Download de músicas de jogos, primordialmente em formato mid</td>
+      </tr>
       <tr>
         <td><a href="https://redketchup.io/bulk-image-resizer" target="_blank">Bulk Image Resizer</a></td>
         <td>Ferramenta para alterar o tamanho de imagem em massa</td>
@@ -143,6 +148,5 @@ Sites internacionais sobre emulação e relacionados
         <td><a href="https://onlinehtmleditor.dev/" target="_blank">Online HTML Editor</a></td>
         <td>Editor HTML WYSIWYG que uso como auxílio para criar este site</td>
       </tr>
-      <!-- Continuar adicionando as outras linhas da tabela da mesma forma -->
     </tbody>
 </table>
