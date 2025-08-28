@@ -95,7 +95,10 @@ hr {
 }
 
 h1 {
-  color: #478de7;
+  font-family: 'Press Start 2P', monospace;
+  text-shadow: 0 0 5px #0e0e0e, 0 0 10px #bfdcff;
+  font-weight: bold;
+  color: #ffffff;
   border-bottom: 2px dotted #005393; /* Define um sublinhado (border) de 2px de espessura. Você pode ajustar a espessura conforme preferir. */
   padding-top: 25px;
   padding-bottom: 10px; /* Adiciona um espaço entre o texto e o sublinhado. Ajuste conforme sua preferência. */
@@ -238,7 +241,7 @@ pre, code {
 
 .horizontal-menu li a:hover {
   background-color: black;
-  color: #c5c5c5;
+  color: #ffffff;
   text-decoration: none;
 }
 

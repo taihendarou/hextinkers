@@ -266,3 +266,4 @@ Em compressão por frequência (como Huffman), os códigos são montados de form
 São operações realizadas diretamente em nível de bits (AND, OR, XOR, shifts e afins). Na compressão de dados, isso é usado o tempo todo para manipular e interpretar informações de forma compacta.
 
 Muitas vezes, alguns poucos bits dentro de um byte já carregam instruções: se é um literal, se é uma referência, se é relativa ou até quantos bytes devem ser lidos a seguir. É por meio dessas operações que o programa consegue “quebrar” os dados em pedaços mínimos e reconstruir a lógica da compressão.
+
