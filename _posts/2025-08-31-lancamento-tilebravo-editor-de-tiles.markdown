@@ -10,8 +10,6 @@ A proposta é ser uma ferramenta que possa complementar ou substituir editores c
 
 ![TileBravo Screenshot](/img/tool_tilebravo/tilebravo-1.png){:style="width:70%; display:block; margin:auto;"}
 
-![TileBravo Screenshot](/img/tool_tilebravo/tilebravo-1.png){:class="centered"}
-
 Por enquanto, suporta os seguintes formatos de imagem:
 
 - 2bpp planar  
