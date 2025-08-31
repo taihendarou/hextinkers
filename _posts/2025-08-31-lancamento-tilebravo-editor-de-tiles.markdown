@@ -23,15 +23,10 @@ As paletas usam um formato simples em **JSON**. Você pode ajustar uma paleta, e
 
 Um uso interessante é o seguinte: abrir o gráfico desejado, ajustar a paleta, exportar como **PNG**, editar esse PNG no Photoshop ou em outro editor tradicional, importar de volta o PNG editado no TileBravo e então salvar no formato binário para usar na ROM. Mas pode editar os pixels direto no **TileBravo** mesmo.
 
----
+- [Link público para utilizar](https://tilebravo.hextinkers.org)
+- [GitHub do projeto](https://github.com/taihendarou/tilebravo)
 
-### ➡️ [Link para utilizar](https://tilebravo.hextinkers.org)
-
-Testado nos principais navegadores. Não está otimizado para mobile.
-
-### ➡️ [GitHub do projeto](https://github.com/taihendarou/tilebravo)
-
-### ➡️ História do projeto
+### História do projeto
 
 Apenas um desafio pessoal e estudos. Aproveitei a oportunidade para estudar **React.js** ao mesmo tempo que busquei implementar coisas que me incomodam em outros editores. Pretendo evoluir a ferramenta conforme surge necessidade em meu próprio uso e uso dos colegas.
 
