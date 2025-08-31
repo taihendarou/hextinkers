@@ -8,6 +8,8 @@ Acabei de liberar a primeira versão pública do **TileBravo**, um editor de til
 
 A proposta é ser uma ferramenta que possa complementar ou substituir editores clássicos como **TileMolester, YY-CHR e Crystal Tile**. Uma interface rápida, intuitiva, com muitos atalhos de teclado para facilitar.
 
+![TileBravo Screenshot](/img/tool_tilebravo/tilebravo-1.png){:style="width:70%; display:block; margin:auto;"}
+
 ![TileBravo Screenshot](/img/tool_tilebravo/tilebravo-1.png){:class="centered"}
 
 Por enquanto, suporta os seguintes formatos de imagem:
