@@ -71,7 +71,7 @@ Muito obrigado a todos dos servidores do Discord que acompanharam, apoiaram, der
 - **File/ROM SHA-1**: 54198529C9D989B7DBAF767D5185E9557F178292
 - **File/ROM CRC32**: EEF45A93
 
-Caso precise de ajuda para entender o que é o patch e como aplicá-lo, clique aqui e leia este tutorial.
+Caso precise de ajuda para entender o que é o patch e como aplicá-lo, [clique aqui e leia este tutorial](/tutoriais/tutoriais/diversos/como-aplicar-patch-ips.html).
 
 ## Imagens da Tradução
 
@@ -92,7 +92,7 @@ Caso precise de ajuda para entender o que é o patch e como aplicá-lo, clique a
 - **Formato do Patch**: IPS
 - **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.1)
 
-Lembre-se que nós disponibilizamos apenas o patch de tradução. Você deverá aplicá-lo em sua ROM, baixada ou adquirida em outro lugar. Clique aqui para saber mais sobre este processo.
+Lembre-se que nós disponibilizamos apenas o patch de tradução. Você deverá aplicá-lo em sua ROM, baixada ou adquirida em outro lugar.
 
 ## Outros Links
 
