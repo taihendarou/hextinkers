@@ -64,7 +64,7 @@ Curiosamente, o jogo já possuia um sistema de fonte de largura variável origin
 ## Download do patch
 
 - **Formato do Patch**: IPS
-- **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.1)
+- **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.0)
 
 Lembre-se que nós disponibilizamos apenas o patch de tradução. Você deverá aplicá-lo em sua ROM, baixada ou adquirida em outro lugar.
 
