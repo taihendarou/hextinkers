@@ -51,7 +51,7 @@ Curiosamente, o jogo já possuia um sistema de fonte de largura variável origin
 
 ## Vídeo
 
-<center><iframe src="https://www.youtube.com/embed/xhd3RX5aksQ?si=Os7vDy4AKzQ" width="560" height="315" frameborder="0" class="centered" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe src="https://www.youtube.com/embed/Os7vDy4AKzQ" width="560" height="315" frameborder="0" class="centered" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ## Informações para aplicar o patch
 
