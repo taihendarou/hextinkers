@@ -34,13 +34,12 @@ Curiosamente, o jogo já possuia um sistema de fonte de largura variável origin
 
 ## Imagens da Tradução
 
-![Super Adventure Island II em Português 1](/img/projeto_sai2/sai2_print1.png){:class="centered"}
+{:.text-align-center}
+![Super Adventure Island II em Português 1](/img/projeto_sai2/sai2_print1.png){:class="custom-width-300"}
+![Super Adventure Island II em Português 2](/img/projeto_sai2/sai2_print2.gif){:class="custom-width-300"}
 
-![Super Adventure Island II em Português 2](/img/projeto_sai2/sai2_print2.gif){:class="centered"}
-
-![Super Adventure Island II em Português 3](/img/projeto_sai2/sai2_print3.png){:class="centered"}
-
-![Super Adventure Island II em Português 4](/img/projeto_sai2/sai2_print4.png){:class="centered"}
+![Super Adventure Island II em Português 3](/img/projeto_sai2/sai2_print3.png){:class="custom-width-300"}
+![Super Adventure Island II em Português 4](/img/projeto_sai2/sai2_print4.png){:class="custom-width-300"}
 
 
 ## Equipe
