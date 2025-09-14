@@ -2,7 +2,7 @@
 layout: traducao
 title:  "Bomberman Wii"
 console: "Nintendo Wii"
-status: "Em andamento"
+status: "Abandonado"
 ---
 
 Bomberman Wii é um jogo de ação e estratégia, desenvolvido para o console Nintendo Wii. Este título se destaca por ser um dos últimos jogos da série desenvolvidos pela Hudson para consoles de mesa, mantendo-se fiel às raízes da série, ao mesmo tempo em que introduz novos elementos para uma experiência de jogo renovada.
@@ -27,7 +27,7 @@ O modo história não é apenas uma sucessão de níveis, mas uma aventura coere
 
 ## Sobre a tradução
 
-(Informaçõs sobre a tradução em breve)
+Atualmente este projeto está abandonado em função de falta de equipe. Entrei no projeto com a proposta de traduzir textos do japonês para português, mas o restante da equipe não avançou. Se alguém quiser assumir, posso enviar todos os textos do jogo traduzido. Necessitamos de alguém que entenda de rom hacking de Wii.
 
 <center>
       <img src="/img/misc/gif_bomberman.gif">
