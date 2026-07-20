@@ -3,77 +3,120 @@ layout: traducao
 title:  "Adventures of Lolo"
 console: "GB"
 status: "Finalizado"
-download: "https://mega.nz/file/pnk2WC7a#JFbMmyUJrpgwD92IiolLsylXbN0hP2z3YZd5VW2rNR4"
+download: "https://www.romhacking.net.br/index.php?topic=3272.0"
 ---
 
-Super Adventure Island II, desenvolvido pela Hudson Soft, foi lançado para o Super NES, chegando à América do Norte em outubro de 1994 e ao Japão em janeiro de 1995. O jogo também foi relançado para o Virtual Console em 2011.
+Lolo no Daibouken foi desenvolvido originalmente para o Game Boy e lançado apenas no Japão. Mais tarde, o jogo recebeu uma versão europeia chamada Adventures of Lolo, preparada para o Super Game Boy, mas nunca chegou oficialmente à América do Norte.
 
-Diferente dos títulos anteriores da série, Super Adventure Island II combina plataforma com elementos de exploração e RPG. Os jogadores exploram um mundo de ilhas interconectadas, enfrentando desafios, coletando itens e aprimorando habilidades. Esta abordagem proporciona uma jogabilidade que mistura ação tradicional de plataforma com mecânicas mais complexas de RPG.
+Em cada fase, o objetivo é coletar todos os corações, escapar dos inimigos e abrir o baú para fazer a saída aparecer. Para solucionar os quebra-cabeças, Lolo pode mover blocos e transformar inimigos em ovos, usando-os para abrir caminho, reposicioná-los ou neutralizá-los temporariamente.
 
-![Super Adventure Island 2](/img/projeto_sai2/sai2_01.jpeg){:class="centered custom-width-600"}
-
-A narrativa do jogo foca em Mestre Higgins e sua esposa Tina, separados por uma tempestade durante a lua de mel. Higgins, com amnésia, descobre que Tina foi levada para outra ilha e posteriormente sequestrada. A história segue Higgins em sua missão para resgatar Tina, enfrentando desafios e desvendando mistérios ao longo da jornada.
+![Adventures of Lolo em português](/img/projeto_lolo/lolo01.png){:class="centered custom-width-600"}
 
 ## Ficha Técnica
 
-- **Título original**: Super Adventure Island 2
-- **Título japonês**: Takahashi Meijin no Daibouken Jima II (高橋名人の大冒険島II)
-- **Plataforma**: Super Famicom / Super NES
-- **Desenvolvedora**: Make
-- **Publicadora**: Hudson
-- **Gênero**: Plataforma 2D com elementos de RPG
-- **Lançamento**: Outubro de 1994
+- **Título original**: Lolo no Daibouken
+- **Título ocidental**: Adventures of Lolo
+- **Plataforma**: Game Boy
+- **Gênero**: Quebra-cabeças
+- **Versão traduzida**: Japonesa
+- **Início do projeto**: 13 de setembro de 2025
+- **Término do projeto**: 22 de fevereiro de 2026
+- **Progresso**: 100%
 
 ## Sobre a tradução
 
-Projeto iniciado em 3/1/2024. Tradução lançada em 11/09/2025.
+Depois da conclusão de Super Adventure Island II, Taihen perguntou a ajkmetiuk qual seria o próximo projeto da equipe. Adventures of Lolo surgiu como uma boa opção: é um jogo divertido, ainda sem tradução para o português e cujo principal desafio técnico estava nos gráficos, já que aproximadamente 95% deles são comprimidos.
 
-Todos os textos e gráficos traduzidos, inclusive os que contém compressão de dados, com exceção da logo, uma vez que foi optado por manter o título ocidental consagrado Super Adventure Island II.
+Taihen encontrou o **exhal**, uma ferramenta genérica criada para diversos jogos da HAL. Embora a compatibilidade indicada fosse com a versão europeia de Adventures of Lolo, a ferramenta também funcionou com a versão japonesa. A partir disso, Taihen preparou a estrutura inicial do projeto, extraindo conteúdos e a sequência de abertura.
 
-Curiosamente, o jogo já possuia um sistema de fonte de largura variável originalmente implementado pelos desenvolvedores, porém não era utilizado na prática. O sistema passou a ser utilizado e o resultado foram textos visualmente mais agradáveis que o original.
+Como o jogo é composto por aproximadamente 90% de gráficos e apenas 10% de texto, o trabalho precisou ser feito tela por tela, com a extração e edição de um novo gráfico comprimido em praticamente cada etapa. Após a conclusão do primeiro mundo, ajkmetiuk deu continuidade ao projeto, extraindo os gráficos restantes e traduzindo os textos.
 
-## Imagens da Tradução
+Sliter ficou responsável pela tela de título e por gráficos maiores e mais trabalhosos, como “Novo jogo”, “Continuar”, “Nobrelândia” e “Fim”. A borda de Super Game Boy da edição europeia também foi extraída e adicionada à versão japonesa como conteúdo extra para quem jogar nesse modo.
+
+Na etapa final, todas as pendências foram reunidas e editadas. O jogo foi revisado do início ao fim, incluindo os menus extras, e a tradução foi concluída em fevereiro de 2026. Caso encontre algum problema, reporte à equipe pelo [tópico da tradução no FURT]({{ page.download }}){:target="_blank"}.
+
+## Por que traduzimos a versão japonesa?
+
+Embora a versão europeia tenha conteúdo adicional, a equipe optou pela edição japonesa por considerar que ela oferece uma experiência mais direta e fiel à proposta original.
+
+A edição europeia acrescenta 105 fases às 50 originais e reorganiza a campanha em três mundos. O primeiro funciona como uma longa introdução; o segundo reutiliza fases japonesas, algumas com pequenas modificações e um tema de dança; e somente o terceiro apresenta a história original, novamente acompanhada de fases diferentes. Depois do final, ainda existem desafios de nível avançado, sem dicas ou continuação após uma derrota.
+
+Além do ritmo mais demorado, algumas músicas da edição europeia perderam parte dos graves presentes na trilha japonesa e utilizam trechos curtos que se repetem com frequência. A equipe também preferiu a apresentação em preto e branco às paletas de cores escolhidas para o modo Super Game Boy europeu.
+
+Por esses motivos, a versão japonesa foi escolhida: ela vai direto à história principal, tem o áudio preferido pela equipe e mantém a estrutura original sem introduções ou fases extras que poderiam tornar a campanha mais arrastada.
+
+## Imagens da tradução
 
 {:.text-align-center}
-![Super Adventure Island II em Português 1](/img/projeto_sai2/sai2_print1.png){:class="custom-width-300"}
-![Super Adventure Island II em Português 2](/img/projeto_sai2/sai2_print2.gif){:class="custom-width-300"}
+[![Adventures of Lolo em português 2](/img/projeto_lolo/lolo02.png){:class="custom-width-300"}](/img/projeto_lolo/lolo02.png){:target="_blank"}
+[![Adventures of Lolo em português 3](/img/projeto_lolo/lolo03.png){:class="custom-width-300"}](/img/projeto_lolo/lolo03.png){:target="_blank"}
 
 {:.text-align-center}
-![Super Adventure Island II em Português 3](/img/projeto_sai2/sai2_print3.png){:class="custom-width-300"}
-![Super Adventure Island II em Português 4](/img/projeto_sai2/sai2_print4.png){:class="custom-width-300"}
+[![Adventures of Lolo em português 4](/img/projeto_lolo/lolo04.png){:class="custom-width-300"}](/img/projeto_lolo/lolo04.png){:target="_blank"}
+[![Adventures of Lolo em português 5](/img/projeto_lolo/lolo05.png){:class="custom-width-300"}](/img/projeto_lolo/lolo05.png){:target="_blank"}
 
+{:.text-align-center}
+[![Adventures of Lolo em português 6](/img/projeto_lolo/lolo06.png){:class="custom-width-300"}](/img/projeto_lolo/lolo06.png){:target="_blank"}
+[![Adventures of Lolo em português 7](/img/projeto_lolo/lolo07.png){:class="custom-width-300"}](/img/projeto_lolo/lolo07.png){:target="_blank"}
+
+{:.text-align-center}
+[![Adventures of Lolo em português 8](/img/projeto_lolo/lolo08.png){:class="custom-width-300"}](/img/projeto_lolo/lolo08.png){:target="_blank"}
+[![Adventures of Lolo em português 9](/img/projeto_lolo/lolo09.png){:class="custom-width-300"}](/img/projeto_lolo/lolo09.png){:target="_blank"}
+
+{:.text-align-center}
+[![Adventures of Lolo em português 10](/img/projeto_lolo/lolo10.png){:class="custom-width-300"}](/img/projeto_lolo/lolo10.png){:target="_blank"}
+[![Adventures of Lolo em português 11](/img/projeto_lolo/lolo11.png){:class="custom-width-300"}](/img/projeto_lolo/lolo11.png){:target="_blank"}
+
+{:.text-align-center}
+[![Adventures of Lolo em português 12](/img/projeto_lolo/lolo12.png){:class="custom-width-300"}](/img/projeto_lolo/lolo12.png){:target="_blank"}
+[![Adventures of Lolo em português 13](/img/projeto_lolo/lolo13.png){:class="custom-width-300"}](/img/projeto_lolo/lolo13.png){:target="_blank"}
 
 ## Equipe
 
-- **Patryck Padilha de Oliveira**: Tradução, ROMHacking e voz
-- **Dindo**: Tradução e testes
-- **Taihen**: ROM Hacking, ferramentas, gráficos e compressão
-- **ajkmetiuk**: Gráficos e revisão textual
+- **ajkmetiuk**: ROM hacking, ASM, gráficos, tradução e revisão
+- **Taihen**: ROM hacking, ASM, extração da sequência de abertura e tradução
+- **Sliter**: Gráficos
 
-## Vídeo
+## Agradecimentos especiais
 
-<center><iframe src="https://www.youtube.com/embed/Os7vDy4AKzQ" width="560" height="315" frameborder="0" class="centered" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+- **devinacker**: Criação da ferramenta exhal
+- **Marc Robledo**: Criação da ferramenta SGB Border Injector
+- **denim**: Ajuda para localizar uma animação exibida ao concluir as fases
+- **Magall**: Esclarecimento de dúvidas sobre alguns textos em japonês
 
-## Informações para aplicar o patch
+## Vídeo de gameplay
 
-- Nome do jogo: Super Adventure Island II
-- ROM utilizada: Super Adventure Island II (USA).sfc
-- CRC32 (antes do patch): 52FE16FD
-- CRC32 (depois do patch): 6A33DDD7
+<div class="iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/tyneFk0MyxU" title="Gameplay de Adventures of Lolo em português" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+## Informações sobre a ROM
+
+- **Database match**: Lolo no Daibouken (Japan)
+- **Database**: No-Intro: Game Boy/Color (v. 20210227-015730)
+- **CRC32 da ROM original**: D6185941
+
+Use uma ROM original, limpa e sem modificações que corresponda exatamente às informações acima.
+
+## Como aplicar a tradução
+
+O patch foi criado no formato IPS e pode ser aplicado com o Lunar IPS:
+
+1. Baixe o [Lunar IPS no site da PO.B.R.E.](https://romhackers.org/utilitarios/patching/lunar-ips/){:target="_blank"}.
+2. Abra o programa e clique em **Apply IPS Patch**.
+3. Selecione o arquivo `LND_GB_BR_v1_0.ips` e clique em **Abrir**.
+4. Na tela seguinte, selecione a ROM original e clique novamente em **Abrir**.
+5. Depois da confirmação, a ROM estará traduzida e pronta para ser executada em um emulador compatível com Game Boy.
+
+A tradução foi desenvolvida e testada no Mesen, mas deve funcionar normalmente em outros emuladores de Game Boy.
 
 ## Download do patch
 
-- **Formato do Patch**: IPS
-- **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.0)
+- **Formato do patch**: IPS
+- **Download do patch**: [Tópico da tradução no FURT]({{ page.download }}){:target="_blank"} (v1.0)
 
-Lembre-se que nós disponibilizamos apenas o patch de tradução. Você deverá aplicá-lo em sua ROM, baixada ou adquirida em outro lugar.
+Disponibilizamos apenas o patch de tradução. A ROM original do jogo deve ser obtida separadamente.
 
 ## Outros links
 
-- [Publicação da tradução no FURT](https://www.romhacking.net.br/index.php?topic=3142.0)
-- [Publicação no site do patryckpo](https://patryckpo.com/traducoes/projetos/)
-- [Gamefaqs](https://gamefaqs.gamespot.com/snes/588708-super-adventure-island-ii)
-
-{:.text-align-center}
-<img src="/img/misc/snes_shake.gif" alt="" width="200" class="centered">
-(Gif aleatório de um Super Nintendo balançando que está aqui só porque sim)
+- [Publicação da tradução no FURT]({{ page.download }}){:target="_blank"}
+- [Lunar IPS no site da PO.B.R.E.](https://romhackers.org/utilitarios/patching/lunar-ips/){:target="_blank"}
+- [Gameplay da tradução no YouTube](https://www.youtube.com/watch?v=tyneFk0MyxU){:target="_blank"}

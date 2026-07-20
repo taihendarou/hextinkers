@@ -3,7 +3,7 @@ layout: traducao
 title:  "Bomberman"
 console: "Wii"
 status: "Finalizado"
-download: "https://mega.nz/file/VnUVDQDI#uxP2id7SmbxIMr2yKjFSr0d0mz8XNi4-l_CzpUj2N0w"
+download: "https://www.romhacking.net.br/index.php?topic=3358.0"
 ---
 
 Bomberman Wii é um dos últimos jogos da franquia desenvolvidos pela Hudson Soft para consoles de mesa. Lançado exclusivamente no Japão para Nintendo Wii, o jogo mistura o tradicional gameplay estratégico da série com um modo história completo, algo raro dentro da franquia.
@@ -40,6 +40,8 @@ Mesmo com os textos traduzidos, ainda existiam desafios técnicos relacionados �
 
 A tradução contempla os principais textos do jogo, incluindo diálogos, menus, mensagens do modo história e demais elementos necessários para jogar a campanha em português.
 
+O pacote mais recente também traz correções em alguns textos e o menu HOME traduzido por LoboNintendista.
+
 ## Imagens da Tradução
 
 {:.text-align-center}
@@ -59,7 +61,7 @@ A tradução contempla os principais textos do jogo, incluindo diálogos, menus,
 
 ## Agradecimentos especiais
 
-- **LoboNintendista**: Dicas úteis para lidar com detalhes técnicos do projeto
+- **LoboNintendista**: Tradução do menu HOME e dicas úteis para lidar com detalhes técnicos do projeto
 - **Jinjo**: Ajuda na compreensão de elementos de layout
 - **Anime-World, Tatsu, Yusukke, Joapper e Rubinho**: Participação e apoio em diferentes fases do projeto
 
@@ -67,26 +69,50 @@ A tradução contempla os principais textos do jogo, incluindo diálogos, menus,
 
 - **Nome do jogo**: Bomberman
 - **Plataforma**: Nintendo Wii
-- **Formato da imagem**: `.gcz`
-- **Formato do patch**: `.xdelta`
+- **Formato da imagem original**: `.iso`
+- **Formatos disponíveis**: Xdelta e Riivolution
 
-Para aplicar a tradução, tenha em uma pasta a imagem original do jogo no formato `.gcz` e o arquivo do patch `.xdelta`.
+O download reúne, em um único pacote, a versão para Riivolution e o novo patch Xdelta. Escolha abaixo a forma que preferir para aplicar a tradução.
 
-Abra um programa compatível com patches Xdelta, selecione a imagem original do jogo, selecione o patch da tradução e escolha onde salvar a nova imagem traduzida.
+### Método 1: Xdelta (mais simples)
+
+Você precisará de uma imagem original e sem modificações do jogo no formato `.iso`. Os dados necessários para identificar a versão correta estão incluídos no pacote da tradução.
+
+1. Abra o [Patcher Xdelta Online](https://kotcrab.github.io/xdelta-wasm/){:target="_blank"} ou outro programa compatível com Xdelta.
+2. Selecione a ISO original do jogo.
+3. Selecione o arquivo `.xdelta` incluído no pacote.
+4. Aplique o patch e escolha onde salvar a nova ISO traduzida.
+5. Teste a ISO traduzida no Dolphin antes de transferi-la para outro dispositivo.
+
+#### Para jogar no Wii
+
+1. Converta a ISO já traduzida para `.wbfs` usando o Witgui ou outra ferramenta compatível.
+2. Transfira o arquivo `.wbfs` para o dispositivo utilizado pelo seu Wii.
+3. Abra o jogo pelo USB Loader GX.
+
+Esse procedimento foi testado no Dolphin e também em um Wii original. O prólogo, a primeira fase, o menu de melhorias, o tutorial e o modo batalha funcionaram normalmente, inclusive com os caracteres acentuados.
+
+Se preferir, a ISO traduzida também pode ser convertida para `.gcz` para uso no Dolphin.
+
+### Método 2: Riivolution
+
+O mesmo download também contém a versão preparada para Riivolution. Copie os arquivos correspondentes para o cartão SD seguindo a estrutura e as instruções incluídas no pacote e carregue a tradução pelo Riivolution no Wii.
 
 Nenhuma modificação relacionada ao modo online foi aplicada.
 
 ## Download do patch
 
-- **Formato do Patch**: Xdelta
-- **Download do Patch**: [Link do Patch]({{ page.download }}){:target="_blank"}
+- **Formatos do patch**: Xdelta e Riivolution
+- **Download do patch**: [Tópico da tradução no FURT]({{ page.download }}){:target="_blank"}
 
 Lembre-se que disponibilizamos apenas o patch de tradução. A imagem original do jogo deve ser obtida separadamente.
 
+Recomendamos acompanhar o [tópico da tradução no FURT]({{ page.download }}){:target="_blank"}, onde serão publicadas futuras atualizações e correções.
+
 ## Outros links
 
-- [Patcher Xdelta Online](https://kotcrab.github.io/xdelta-wasm/)
-- [Publicação da tradução no FURT](COLOQUE_O_LINK_DO_TOPICO_AQUI)
+- [Patcher Xdelta Online](https://kotcrab.github.io/xdelta-wasm/){:target="_blank"}
+- [Entre no nosso Discord](https://discord.gg/5x7KZEqGfC){:target="_blank"} para conversar com a comunidade e receber ajuda caso tenha dificuldade para encontrar a versão correta do jogo ou aplicar o patch. Vamos tentar facilitar um pouco a sua vida!
 
 ## Vídeo
 
