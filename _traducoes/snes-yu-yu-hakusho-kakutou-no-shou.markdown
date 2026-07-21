@@ -3,7 +3,7 @@ layout: traducao
 title:  "Yu Yu Hakusho 2: Kakuto no Sho"
 console: "SNES"
 status: "Finalizado"
-download: "https://mega.nz/file/83FngIhD#oc3z9280J06qqfuejgA0WcuczfrJtoQv5MTX2eEWdmk"
+download: "https://mega.nz/file/Vz8ClLIa#VW8k27nGyrJHRk602MwXHdk2lb7an3VY4KwjOECAmFY"
 ---
 
 Yu Yu Hakusho 2: Kakutou no Sho é um jogo de luta em estilo 1x1 baseado no clássico anime Yu Yu Hakusho, famoso no Brasil nos anos 90 e início dos anos 2000. O jogo segue a narrativa do anime até o fim do Torneio das Trevas, com lutas um contra um entre os principais personagens da série.
@@ -25,7 +25,7 @@ Possui também um modo arcade (MODO TORNEIO) e um multiplayer. O jogo foi relati
 
 Todos os textos, menus e gráficos estão traduzidos para o português, com todos os acentos necessários. O jogo foi traduzido diretamente do japonês e agora é possível acompanhar os acontecimentos do MODO HISTÓRIA, além de navegar tranquilamente por todas as opções disponíveis. A escolha de termos e das falas foi, na medida do possível, baseada na dublagem brasileira do anime. As falas do personagem buscaram homenagear esta icônica dublagem brasileira.
 
-Versão: 1.0
+Versão atual: 1.2
 
 Projeto iniciado em 26/11/2023 e finalizado em 15/02/2024.
 
@@ -55,23 +55,35 @@ E para finalizar, este projeto me levou a reassistir ao anime, ao menos as parte
 
 Muito obrigado a todos dos servidores do Discord que acompanharam, apoiaram, deram sugestões e ajudaram a execução deste projeto ser mais divertida. Obrigado a Jv132 por um ajuste no anti-aliasing da fonte, Denim por ter ajudado a encontrar a tabela de propriedades do scroll do tilemap do menu principal, Joapper por sugestões de fonte e a todos que apoiaram: Dindo, patryckpo, Mumm-Ra, Hyd~, ajkmetiuk, Satty, badnest, Arara, honmaru (que fará versão em espanhol!), Sora Leon e GameRulez. Além da equipe oficial do projeto: vervalkon e Sliter!
 
-- Versão 1.0 lançada em 14/02/2024
-- Versão 1.1 lançada em 29/09/2024
+## Histórico de versões
+
+### Versão 1.2 — 20/07/2026
+
+- Corrigido um problema em que o título do menu podia ficar desalinhado ao retornar das Opções no modo Treinamento. (Agradecimento a Kogami93 pelo report)
+- Corrigida a tela de Game Over no modo História (Fácil), que travava após a primeira forma de Toguro.
+- Corrigida a tela de Game Over do modo Torneio, que agora exibe corretamente os gráficos e diálogos.
+
+<div class="image-container">
+  <img src="/img/projeto_yyh2/yyh2_v1_2_pt_000.png" alt="Yu Yu Hakusho 2 - Atualização 1.2 em Português 1">
+  <img src="/img/projeto_yyh2/yyh2_v1_2_pt_001.png" alt="Yu Yu Hakusho 2 - Atualização 1.2 em Português 2">
+  <img src="/img/projeto_yyh2/yyh2_v1_2_pt_002.png" alt="Yu Yu Hakusho 2 - Atualização 1.2 em Português 3">
+</div>
+
+### Versão 1.1 — 29/09/2024
+
+- Corrigida uma palavra que estava sem acento.
+- Retirado um pixel que estava "voando" no menu Treinamento → Opções.
+- Padronizado o termo "Leikou Hadouken", que aparecia como "Leikouhadouken" em um diálogo.
+
+### Versão 1.0 — 14/02/2024
+
+- Lançamento inicial da tradução.
 
 ## Equipe
 
 - **Taihen**: Tradução e ROM Hacking
 - **vervalkon**: Gráficos e ROM Hacking
 - **Sliter**: Gráficos
-
-## Informações da ROM para aplicar o patch
-
-- **Nome**: Yu Yu Hakusho 2 - Kakutou no Shou (Japan)
-- **Database**: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
-- **File/ROM SHA-1**: 54198529C9D989B7DBAF767D5185E9557F178292
-- **File/ROM CRC32**: EEF45A93
-
-Caso precise de ajuda para entender o que é o patch e como aplicá-lo, [clique aqui e leia este tutorial](/tutoriais/tutoriais/diversos/como-aplicar-patch-ips.html).
 
 ## Imagens da Tradução
 
@@ -90,9 +102,18 @@ Caso precise de ajuda para entender o que é o patch e como aplicá-lo, [clique 
 ## Download do patch
 
 - **Formato do Patch**: IPS
-- **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.1)
+- **Download do Patch**: [Link do Mega]({{ page.download }}){:target="_blank"} (v1.2)
 
 Lembre-se que nós disponibilizamos apenas o patch de tradução. Você deverá aplicá-lo em sua ROM, baixada ou adquirida em outro lugar.
+
+## Informações da ROM para aplicar o patch
+
+- **Nome**: Yu Yu Hakusho 2 - Kakutou no Shou (Japan)
+- **Database**: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+- **File/ROM SHA-1**: 54198529C9D989B7DBAF767D5185E9557F178292
+- **File/ROM CRC32**: EEF45A93
+
+Caso precise de ajuda para entender o que é o patch e como aplicá-lo, [clique aqui e leia este tutorial](https://hextinkers.org/tutoriais/diversos/como-aplicar-patch-ips.html){:target="_blank"}.
 
 ## Outros Links
 
