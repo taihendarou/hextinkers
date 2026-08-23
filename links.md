@@ -121,8 +121,8 @@ Sites internacionais sobre emulação e relacionados
         <td>Acervo de capas de jogos scanneadas em alta qualidade</td>
       </tr>
       <tr>
-        <td><a href="https://www.nintandbox.net/">NintAndBox.net</a></td>
-        <td>Download de capas, manuais e labels</td>
+        <td><a href="https://archive.org/download/nintandbox-2026">NintAndBox</a></td>
+        <td>Download de capas, manuais e labels. O site original foi derrubado. O link é para um backup no Internet Archive.</td>
       </tr>
       <tr>
         <td><a href="https://supernintendolabels.blogspot.com/" target="_blank">Super Nintendo Labels</a></td>
