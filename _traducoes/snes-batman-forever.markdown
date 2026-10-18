@@ -39,7 +39,6 @@ A tradução está em andamento. As capturas abaixo mostram o título adaptado, 
   <a href="/img/projeto_batman_forever/BATMAN-pt_005.png" target="_blank" rel="noopener"><img src="/img/projeto_batman_forever/BATMAN-pt_005.png" alt="Tela de escolha de herói traduzida" class="custom-width-300"></a>
   <a href="/img/projeto_batman_forever/BATMAN-pt_006.png" target="_blank" rel="noopener"><img src="/img/projeto_batman_forever/BATMAN-pt_006.png" alt="Tela de equipamentos de Batman e Robin" class="custom-width-300"></a>
   <a href="/img/projeto_batman_forever/BATMAN-pt_007.png" target="_blank" rel="noopener"><img src="/img/projeto_batman_forever/BATMAN-pt_007.png" alt="Descrição de equipamento em português" class="custom-width-300"></a>
-  <a href="/img/projeto_batman_forever/BATMAN-pt_008.png" target="_blank" rel="noopener"><img src="/img/projeto_batman_forever/BATMAN-pt_008.png" alt="Instruções de jogo em português" class="custom-width-300"></a>
-  <a href="/img/projeto_batman_forever/BATMAN-pt_009.png" target="_blank" rel="noopener"><img src="/img/projeto_batman_forever/BATMAN-pt_009.png" alt="Mensagem Aguarde em português" class="custom-width-300"></a>
   <a href="/img/projeto_batman_forever/BATMAN-pt_010.png" target="_blank" rel="noopener"><img src="/img/projeto_batman_forever/BATMAN-pt_010.png" alt="Cena de jogo com instruções em português" class="custom-width-300"></a>
+  <a href="/img/projeto_batman_forever/BATMAN-pt_009.png" target="_blank" rel="noopener"><img src="/img/projeto_batman_forever/BATMAN-pt_009.png" alt="Mensagem Aguarde em português" class="custom-width-300"></a>
 </div>
