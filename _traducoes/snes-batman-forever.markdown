@@ -11,7 +11,7 @@ Batman Forever é um jogo de ação para Super Nintendo baseado no filme de 1995
 
 O jogo apresenta personagens com gráficos digitalizados a partir de atores reais e permite que dois jogadores enfrentem os desafios juntos. Com esta tradução, os textos e gráficos estão disponíveis em português, incluindo o título adaptado para **Batman Eternamente**.
 
-![Batman Eternamente em português, versão 1.0](/img/projeto_batman_forever/Batman_Forever_U_TPor_v1.0_ByFTR-Taihen-Mumm-Ra_000.png){:class="centered custom-width-600"}
+![Batman Eternamente em português, versão 1.0](/img/projeto_batman_forever/Batman_Forever_U_TPor_v1.0_ByFTR-Taihen-Mumm-Ra_001.png){:class="centered custom-width-600"}
 
 ## Ficha técnica
 
